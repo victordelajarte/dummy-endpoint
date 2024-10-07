@@ -1,6 +1,15 @@
 {
-    "userId": 1,
-    "id": 1,
-    "title": "delectus aut autem",
-    "completed": false
+    "totalAmountInCents": 6700,
+    "minAmountAcceptable": 100,
+    "isLastMonthLocked": false,
+    "currentMonth": {
+        "amountInCents": 400,
+        "month": "february",
+        "year": 2024
+    },
+    "previousMonth": {
+        "amountInCents": 6300,
+        "month": "january",
+        "year": 2024
+    }
 }
